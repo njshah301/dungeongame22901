@@ -1,1 +1,3 @@
-pywebio
+numpy==1.21.4
+pandas==1.3.4
+pywebio==1.4.0
