@@ -1,3 +1,1 @@
-web:python dg_main.py 
-
-
+web: gunicorn wsgi:dg_main.py
