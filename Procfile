@@ -1,1 +1,2 @@
-web: python dg_main.py --port=$PORT
+web: gunicorn wsgi:app
+
