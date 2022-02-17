@@ -1,3 +1,3 @@
-web: python dg_main.py --port=$PORT
+web: python dg_main.py 
 
 
