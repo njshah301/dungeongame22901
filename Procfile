@@ -1,3 +1,3 @@
-web: python dg_main.py 
+web:python dg_main.py 
 
 
