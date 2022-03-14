@@ -1,5 +1,5 @@
 from dg import *
-from dg_main import *
+from manage import *
 import pywebio.output as pwo
 from pywebio.input import *
 import numpy as np
