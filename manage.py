@@ -1,7 +1,7 @@
 import random
 import pywebio.output as pwo
 from pywebio.input import *
-from dg_main import *
+from manage import *
 import pywebio.output as pwo
 from pywebio.input import input
 import numpy as np
